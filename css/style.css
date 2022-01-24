@@ -1,7 +1,10 @@
 body{
+    font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
     
 }
 .btn-custom{ 
-      background-color:rgba(244, 150, 209, 1); 
+      background-color:rgb(221, 139, 214); 
       border: 0;
 }
