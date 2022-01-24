@@ -1,10 +1,15 @@
+  /* use fonts */
 body{
     font-family: 'Inter', sans-serif;
 font-family: 'Manrope', sans-serif;
 font-family: 'Poppins', sans-serif;
     
 }
-.btn-custom{ 
+.custom-btn{ 
       background-color:rgb(221, 139, 214); 
       border: 0;
 }
+
+.text-color{
+    color: rgb(221, 243, 186);
+} 
